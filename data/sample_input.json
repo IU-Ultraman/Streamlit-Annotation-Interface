@@ -27,28 +27,7 @@
         "Hemoglobin A1C: 8.9% (POOR CONTROL - significantly elevated from 7.2% three months ago)",
         "Glucose: 3+ (HIGH)",
         "Type 2 Diabetes Mellitus - POORLY CONTROLLED"
-      ],
-      "annotation": {
-        "annotator_id": "Xing He",
-        "corrected_answer": "No",
-        "corrected_explanation": "The patient has a well-documented history of Type 2 diabetes mellitus diagnosed 10 years ago. He is currently on metformin 1000mg twice daily. His HbA1c has increased from 7.2% to 8.9%, indicating poor glycemic control. Admission glucose was 287 mg/dL with 3+ glycosuria. The patient also has diabetic peripheral neuropathy as a complication.",
-        "comment": "test",
-        "timestamp": "2026-01-14T19:23:56.556298"
-      },
-      "annotations": {
-        "Xing He": {
-          "corrected_answer": "No",
-          "corrected_explanation": "The patient has a well-documented history of Type 2 diabetes mellitus diagnosed 10 years ago. He is currently on metformin 1000mg twice daily. His HbA1c has increased from 7.2% to 8.9%, indicating poor glycemic control. Admission glucose was 287 mg/dL with 3+ glycosuria. The patient also has diabetic peripheral neuropathy as a complication.",
-          "comment": "test",
-          "timestamp": "2026-01-14T19:31:11.793788"
-        },
-        "Jason Ho": {
-          "corrected_answer": "Yes",
-          "corrected_explanation": "The patient has a well-documented history of Type 2 diabetes mellitus diagnosed 10 years ago. He is currently on metformin 1000mg twice daily. His HbA1c has increased from 7.2% to 8.9%, indicating poor glycemic control. Admission glucose was 287 mg/dL with 3+ glycosuria. The patient also has diabetic peripheral neuropathy as a complication.",
-          "comment": "111",
-          "timestamp": "2026-01-14T19:31:31.320940"
-        }
-      }
+      ]
     },
     {
       "id": "note_002",
@@ -61,28 +40,7 @@
         "Fasting glucose: 92 mg/dL (normal)",
         "HbA1c: 5.4% (normal)",
         "No evidence of diabetes or prediabetes"
-      ],
-      "annotation": {
-        "annotator_id": "Xing He",
-        "corrected_answer": "No",
-        "corrected_explanation": "The patient has no history of diabetes or any chronic diseases. Her fasting glucose of 92 mg/dL and HbA1c of 5.4% are both within normal range, indicating no diabetes or prediabetes.",
-        "comment": "",
-        "timestamp": "2026-01-14T19:23:58.128899"
-      },
-      "annotations": {
-        "Xing He": {
-          "corrected_answer": "No",
-          "corrected_explanation": "The patient has no history of diabetes or any chronic diseases. Her fasting glucose of 92 mg/dL and HbA1c of 5.4% are both within normal range, indicating no diabetes or prediabetes.",
-          "comment": "",
-          "timestamp": "2026-01-14T19:31:12.934689"
-        },
-        "Jason Ho": {
-          "corrected_answer": "No",
-          "corrected_explanation": "The patient has no history of diabetes or any chronic diseases. Her fasting glucose of 92 mg/dL and HbA1c of 5.4% are both within normal range, indicating no diabetes or prediabetes.",
-          "comment": "",
-          "timestamp": "2026-01-14T19:31:32.049759"
-        }
-      }
+      ]
     },
     {
       "id": "note_003",
@@ -98,28 +56,7 @@
         "Admission glucose was 287 mg/dL",
         "HbA1c was found to be 9.1%",
         "uncontrolled diabetes"
-      ],
-      "annotation": {
-        "annotator_id": "Xing He",
-        "corrected_answer": "Yes",
-        "corrected_explanation": "The patient has documented insulin-dependent Type 2 diabetes mellitus. He takes insulin glargine 24 units at bedtime and insulin lispro with meals. His diabetes is uncontrolled with admission glucose of 287 mg/dL and HbA1c of 9.1%. Endocrinology was consulted for diabetes management.",
-        "comment": "",
-        "timestamp": "2026-01-14T19:23:58.925347"
-      },
-      "annotations": {
-        "Xing He": {
-          "corrected_answer": "Yes",
-          "corrected_explanation": "The patient has documented insulin-dependent Type 2 diabetes mellitus. He takes insulin glargine 24 units at bedtime and insulin lispro with meals. His diabetes is uncontrolled with admission glucose of 287 mg/dL and HbA1c of 9.1%. Endocrinology was consulted for diabetes management.",
-          "comment": "",
-          "timestamp": "2026-01-14T19:31:13.710385"
-        },
-        "Jason Ho": {
-          "corrected_answer": "Yes",
-          "corrected_explanation": "The patient has documented insulin-dependent Type 2 diabetes mellitus. He takes insulin glargine 24 units at bedtime and insulin lispro with meals. His diabetes is uncontrolled with admission glucose of 287 mg/dL and HbA1c of 9.1%. Endocrinology was consulted for diabetes management.",
-          "comment": "",
-          "timestamp": "2026-01-14T19:31:32.595118"
-        }
-      }
+      ]
     }
   ]
 }
