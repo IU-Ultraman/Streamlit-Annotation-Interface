@@ -19,12 +19,13 @@ def load_json_data(filepath: str) -> dict[str, Any]:
                 "predicted_answer": "Yes/No",
                 "predicted_explanation": "Model's explanation",
                 "evidence": ["evidence span 1", "evidence span 2"],
-                "annotation": {  // Optional - added when annotated
-                    "annotator_id": "...",
-                    "corrected_answer": "...",
-                    "corrected_explanation": "...",
-                    "comment": "...",
-                    "timestamp": "..."
+                "annotations": {  // Optional - added when annotated
+                    "Annotator_A": {
+                        "corrected_answer": "...",
+                        "corrected_explanation": "...",
+                        "comment": "...",
+                        "timestamp": "..."
+                    }
                 }
             }
         ]

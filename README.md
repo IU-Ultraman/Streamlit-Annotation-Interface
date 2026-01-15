@@ -139,6 +139,15 @@ Annotations are saved back to the input file. Each note will have an `annotation
 - All annotations are preserved in the same file
 - Use **Download Results** to export the file with all annotations
 
+### Important: Avoid Concurrent Editing
+
+**Do NOT have multiple annotators work on the same file simultaneously.** This app saves directly to a local file, so concurrent edits will overwrite each other.
+
+**Recommended workflow for teams:**
+1. **Option A - Sequential:** One annotator completes their work, downloads the results, then passes the file to the next annotator
+2. **Option B - Separate files:** Give each annotator their own copy of the input file, then merge results afterward
+3. **Option C - Separate instances:** Run the app on different machines/ports with different file copies
+
 ## Resetting Annotations
 
 To start fresh with a file:
