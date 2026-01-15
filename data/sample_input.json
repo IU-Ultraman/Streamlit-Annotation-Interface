@@ -1,0 +1,125 @@
+{
+  "keywords": [
+    "diabetes",
+    "metformin",
+    "HbA1c",
+    "glucose",
+    "insulin",
+    "hyperglycemia",
+    "glycemic",
+    "blood sugar",
+    "A1C",
+    "diabetic"
+  ],
+  "notes": [
+    {
+      "id": "note_001",
+      "text": "ADMISSION NOTE\n\nPatient: John Smith\nMRN: 123456789\nDate of Admission: January 14, 2026\nAttending Physician: Dr. Sarah Johnson, MD\n\nCHIEF COMPLAINT:\nPatient is a 58-year-old male presenting with chest pain and shortness of breath for the past 3 days.\n\nHISTORY OF PRESENT ILLNESS:\nMr. Smith is a 58-year-old male with a past medical history significant for Type 2 diabetes mellitus, hypertension, hyperlipidemia, and obesity who presents to the emergency department with complaints of substernal chest pain and progressive shortness of breath over the past 72 hours. The patient describes the chest pain as a pressure-like sensation, rated 6/10 in intensity, radiating to his left arm. The pain is exacerbated by exertion and partially relieved by rest. He denies any associated nausea, vomiting, or diaphoresis.\n\nThe patient reports that his blood sugar levels have been poorly controlled over the past several weeks, with home glucose readings ranging from 180 to 320 mg/dL despite compliance with his diabetes medications. He admits to dietary indiscretion during the recent holiday season and has gained approximately 8 pounds over the past month.\n\nPAST MEDICAL HISTORY:\n1. Type 2 Diabetes Mellitus - diagnosed 10 years ago\n   - Currently managed with metformin 1000mg twice daily\n   - Last HbA1c was 7.2% (3 months ago)\n   - History of diabetic peripheral neuropathy\n   - No history of diabetic retinopathy or nephropathy\n2. Hypertension - diagnosed 15 years ago\n   - Controlled with lisinopril 20mg daily\n3. Hyperlipidemia\n   - On atorvastatin 40mg daily\n4. Obesity - BMI 32.4\n5. Osteoarthritis of bilateral knees\n6. Benign prostatic hyperplasia\n\nPAST SURGICAL HISTORY:\n1. Appendectomy (1995)\n2. Right knee arthroscopy (2018)\n\nMEDICATIONS:\n1. Metformin 1000mg PO twice daily\n2. Lisinopril 20mg PO daily\n3. Atorvastatin 40mg PO at bedtime\n4. Aspirin 81mg PO daily\n5. Tamsulosin 0.4mg PO at bedtime\n6. Acetaminophen 650mg PO as needed for pain\n\nALLERGIES:\n- Penicillin (rash)\n- Sulfa drugs (hives)\n\nSOCIAL HISTORY:\n- Former smoker, quit 5 years ago (30 pack-year history)\n- Occasional alcohol use (1-2 beers per week)\n- Denies illicit drug use\n- Retired accountant\n- Lives with wife, two adult children nearby\n- Sedentary lifestyle due to knee pain\n\nFAMILY HISTORY:\n- Father: Deceased at age 72 from myocardial infarction, had Type 2 diabetes\n- Mother: Alive at age 82, has hypertension and Type 2 diabetes\n- Brother: Age 55, has Type 2 diabetes and coronary artery disease\n- Sister: Age 52, healthy\n\nREVIEW OF SYSTEMS:\nGeneral: Reports fatigue, weight gain of 8 lbs over past month\nCardiovascular: Chest pain and shortness of breath as noted in HPI\nRespiratory: Dyspnea on exertion, no cough or wheezing\nGastrointestinal: No nausea, vomiting, or abdominal pain\nGenitourinary: Nocturia x2-3, weak urinary stream\nMusculoskeletal: Chronic bilateral knee pain\nNeurological: Numbness and tingling in bilateral feet (chronic)\nEndocrine: Polyuria and polydipsia over past 2 weeks\n\nPHYSICAL EXAMINATION:\nVital Signs:\n- Temperature: 98.6°F (37°C)\n- Blood Pressure: 148/92 mmHg\n- Heart Rate: 88 bpm, regular\n- Respiratory Rate: 20 breaths/min\n- Oxygen Saturation: 94% on room air\n- Weight: 245 lbs (111 kg)\n- Height: 5'10\" (178 cm)\n- BMI: 35.2\n\nGeneral: Alert and oriented, mild distress due to chest discomfort\nHEENT: Normocephalic, atraumatic, PERRLA, EOMI, oropharynx clear\nNeck: Supple, no JVD, no lymphadenopathy, no thyromegaly\nCardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. PMI non-displaced.\nPulmonary: Decreased breath sounds at bilateral bases, no wheezes or crackles\nAbdomen: Soft, non-tender, non-distended, normoactive bowel sounds, no hepatosplenomegaly\nExtremities: Trace bilateral lower extremity edema, no cyanosis, diminished dorsalis pedis pulses bilaterally\nNeurological: Alert and oriented x3, cranial nerves II-XII intact, decreased sensation to light touch in stocking distribution bilaterally\nSkin: Warm and dry, no rashes or lesions\n\nLABORATORY RESULTS:\nComplete Blood Count:\n- WBC: 8.2 x10^9/L (normal)\n- Hemoglobin: 13.8 g/dL (normal)\n- Hematocrit: 41.2% (normal)\n- Platelets: 225 x10^9/L (normal)\n\nComprehensive Metabolic Panel:\n- Sodium: 138 mEq/L (normal)\n- Potassium: 4.2 mEq/L (normal)\n- Chloride: 102 mEq/L (normal)\n- CO2: 24 mEq/L (normal)\n- BUN: 22 mg/dL (normal)\n- Creatinine: 1.3 mg/dL (slightly elevated)\n- Glucose: 287 mg/dL (HIGH)\n- Calcium: 9.1 mg/dL (normal)\n\nCardiac Markers:\n- Troponin I: <0.04 ng/mL (normal)\n- BNP: 450 pg/mL (elevated)\n\nLipid Panel:\n- Total Cholesterol: 218 mg/dL\n- LDL: 142 mg/dL (elevated)\n- HDL: 38 mg/dL (low)\n- Triglycerides: 190 mg/dL (elevated)\n\nHemoglobin A1C: 8.9% (POOR CONTROL - significantly elevated from 7.2% three months ago)\n\nUrinalysis:\n- Glucose: 3+ (HIGH)\n- Protein: Trace\n- Ketones: Negative\n- No bacteria or WBCs\n\nELECTROCARDIOGRAM:\nNormal sinus rhythm at 88 bpm, no ST-segment elevations or depressions, no T-wave inversions, no Q waves. QTc 420ms.\n\nCHEST X-RAY:\nMild cardiomegaly. No acute infiltrates. Small bilateral pleural effusions.\n\nASSESSMENT AND PLAN:\n\n1. Chest Pain - Likely anginal equivalent in setting of uncontrolled diabetes\n   - Rule out acute coronary syndrome with serial troponins\n   - Continue aspirin, start heparin drip per ACS protocol\n   - Cardiology consult for possible stress test or cardiac catheterization\n   - Optimize diabetes control (see below)\n\n2. Type 2 Diabetes Mellitus - POORLY CONTROLLED\n   - Current HbA1c 8.9%, up from 7.2% three months ago\n   - Fasting glucose 287 mg/dL with glycosuria\n   - Continue metformin 1000mg twice daily\n   - ADD insulin glargine 10 units subcutaneous at bedtime\n   - Sliding scale insulin coverage with meals\n   - Endocrinology consult for diabetes management optimization\n   - Diabetes educator consult for reinforcement of diet and lifestyle modifications\n   - Check fingerstick glucose before meals and at bedtime\n   - Goal glucose 140-180 mg/dL while inpatient\n\n3. Hypertension - Suboptimally controlled\n   - Blood pressure 148/92 on admission\n   - Continue lisinopril 20mg daily\n   - Consider adding amlodipine if BP remains elevated\n   - Low sodium diet\n\n4. Hyperlipidemia\n   - LDL 142, HDL 38, elevated triglycerides\n   - Continue atorvastatin 40mg\n   - May need to increase statin dose or add ezetimibe\n\n5. Acute Kidney Injury vs Diabetic Nephropathy\n   - Creatinine 1.3 (baseline unknown)\n   - Check urine microalbumin/creatinine ratio\n   - Avoid nephrotoxic agents\n   - Adequate hydration\n\n6. Shortness of breath\n   - Likely multifactorial: deconditioning, obesity, possible early heart failure\n   - Elevated BNP, small pleural effusions on CXR\n   - Echocardiogram to assess cardiac function\n   - Diuresis if heart failure confirmed\n\nDISPOSITION:\nAdmit to telemetry unit for cardiac monitoring and diabetes management. NPO after midnight for possible cardiac catheterization tomorrow.\n\nCode Status: Full Code\nDVT Prophylaxis: Heparin drip (therapeutic for ACS protocol)\nDiet: Cardiac, diabetic diet (1800 kcal ADA)\n\nThis assessment and plan was discussed with the patient and his wife. They understand the importance of better diabetes control and are agreeable to the proposed treatment plan.\n\n_____________________________\nDr. Sarah Johnson, MD\nInternal Medicine\nJanuary 14, 2026",
+      "question": "Does the patient have diabetes?",
+      "predicted_answer": "Yes",
+      "predicted_explanation": "The patient has a well-documented history of Type 2 diabetes mellitus diagnosed 10 years ago. He is currently on metformin 1000mg twice daily. His HbA1c has increased from 7.2% to 8.9%, indicating poor glycemic control. Admission glucose was 287 mg/dL with 3+ glycosuria. The patient also has diabetic peripheral neuropathy as a complication.",
+      "evidence": [
+        "Type 2 Diabetes Mellitus - diagnosed 10 years ago",
+        "Currently managed with metformin 1000mg twice daily",
+        "Last HbA1c was 7.2% (3 months ago)",
+        "History of diabetic peripheral neuropathy",
+        "Glucose: 287 mg/dL (HIGH)",
+        "Hemoglobin A1C: 8.9% (POOR CONTROL - significantly elevated from 7.2% three months ago)",
+        "Glucose: 3+ (HIGH)",
+        "Type 2 Diabetes Mellitus - POORLY CONTROLLED"
+      ],
+      "annotation": {
+        "annotator_id": "Xing He",
+        "corrected_answer": "No",
+        "corrected_explanation": "The patient has a well-documented history of Type 2 diabetes mellitus diagnosed 10 years ago. He is currently on metformin 1000mg twice daily. His HbA1c has increased from 7.2% to 8.9%, indicating poor glycemic control. Admission glucose was 287 mg/dL with 3+ glycosuria. The patient also has diabetic peripheral neuropathy as a complication.",
+        "comment": "test",
+        "timestamp": "2026-01-14T19:23:56.556298"
+      },
+      "annotations": {
+        "Xing He": {
+          "corrected_answer": "No",
+          "corrected_explanation": "The patient has a well-documented history of Type 2 diabetes mellitus diagnosed 10 years ago. He is currently on metformin 1000mg twice daily. His HbA1c has increased from 7.2% to 8.9%, indicating poor glycemic control. Admission glucose was 287 mg/dL with 3+ glycosuria. The patient also has diabetic peripheral neuropathy as a complication.",
+          "comment": "test",
+          "timestamp": "2026-01-14T19:31:11.793788"
+        },
+        "Jason Ho": {
+          "corrected_answer": "Yes",
+          "corrected_explanation": "The patient has a well-documented history of Type 2 diabetes mellitus diagnosed 10 years ago. He is currently on metformin 1000mg twice daily. His HbA1c has increased from 7.2% to 8.9%, indicating poor glycemic control. Admission glucose was 287 mg/dL with 3+ glycosuria. The patient also has diabetic peripheral neuropathy as a complication.",
+          "comment": "111",
+          "timestamp": "2026-01-14T19:31:31.320940"
+        }
+      }
+    },
+    {
+      "id": "note_002",
+      "text": "OFFICE VISIT NOTE\n\nPatient: Jane Doe\nDOB: 05/15/1981\nDate of Visit: January 14, 2026\n\nCHIEF COMPLAINT:\nAnnual wellness examination\n\nHISTORY OF PRESENT ILLNESS:\n45-year-old female presents for annual wellness exam. Patient reports feeling well with no acute complaints. She exercises regularly, attending spin class 3 times per week and walking her dog daily. She follows a Mediterranean diet and has maintained her weight at 145 lbs for the past 2 years.\n\nPAST MEDICAL HISTORY:\n1. Seasonal allergies - treated with cetirizine PRN\n2. Migraine headaches - occasional, managed with sumatriptan PRN\n\nNo history of chronic diseases including diabetes, hypertension, or heart disease.\n\nMEDICATIONS:\n1. Cetirizine 10mg PRN for allergies\n2. Sumatriptan 50mg PRN for migraines\n3. Multivitamin daily\n\nFAMILY HISTORY:\n- Mother: Breast cancer at age 62, currently in remission\n- Father: Coronary artery disease, CABG at age 65\n- No family history of diabetes\n\nVITAL SIGNS:\n- Blood Pressure: 118/72 mmHg\n- Heart Rate: 68 bpm\n- BMI: 23.4\n\nLABORATORY RESULTS:\n- Fasting glucose: 92 mg/dL (normal)\n- HbA1c: 5.4% (normal)\n- Lipid panel: Within normal limits\n\nASSESSMENT:\nHealthy 45-year-old female with no acute issues. Labs unremarkable. No evidence of diabetes or prediabetes.\n\nPLAN:\n1. Continue current healthy lifestyle\n2. Schedule mammogram given family history\n3. Return in 1 year for follow-up\n\n_____________________________\nDr. Michael Chen, MD",
+      "question": "Does the patient have diabetes?",
+      "predicted_answer": "No",
+      "predicted_explanation": "The patient has no history of diabetes or any chronic diseases. Her fasting glucose of 92 mg/dL and HbA1c of 5.4% are both within normal range, indicating no diabetes or prediabetes.",
+      "evidence": [
+        "No history of chronic diseases including diabetes",
+        "Fasting glucose: 92 mg/dL (normal)",
+        "HbA1c: 5.4% (normal)",
+        "No evidence of diabetes or prediabetes"
+      ],
+      "annotation": {
+        "annotator_id": "Xing He",
+        "corrected_answer": "No",
+        "corrected_explanation": "The patient has no history of diabetes or any chronic diseases. Her fasting glucose of 92 mg/dL and HbA1c of 5.4% are both within normal range, indicating no diabetes or prediabetes.",
+        "comment": "",
+        "timestamp": "2026-01-14T19:23:58.128899"
+      },
+      "annotations": {
+        "Xing He": {
+          "corrected_answer": "No",
+          "corrected_explanation": "The patient has no history of diabetes or any chronic diseases. Her fasting glucose of 92 mg/dL and HbA1c of 5.4% are both within normal range, indicating no diabetes or prediabetes.",
+          "comment": "",
+          "timestamp": "2026-01-14T19:31:12.934689"
+        },
+        "Jason Ho": {
+          "corrected_answer": "No",
+          "corrected_explanation": "The patient has no history of diabetes or any chronic diseases. Her fasting glucose of 92 mg/dL and HbA1c of 5.4% are both within normal range, indicating no diabetes or prediabetes.",
+          "comment": "",
+          "timestamp": "2026-01-14T19:31:32.049759"
+        }
+      }
+    },
+    {
+      "id": "note_003",
+      "text": "DISCHARGE SUMMARY\n\nPatient: Robert Williams\nMRN: 987654321\nAdmission Date: January 10, 2026\nDischarge Date: January 14, 2026\n\nADMITTING DIAGNOSIS:\nCommunity-acquired pneumonia\n\nDISCHARGE DIAGNOSES:\n1. Community-acquired pneumonia, resolved\n2. Insulin-dependent Type 2 diabetes mellitus, uncontrolled\n3. COPD with chronic hypoxic respiratory failure on home oxygen\n4. Congestive heart failure with reduced ejection fraction (EF 35%)\n5. Acute on chronic kidney disease\n\nHOSPITAL COURSE:\n72-year-old male with extensive past medical history including COPD on home oxygen 2L NC, congestive heart failure with EF 35%, and insulin-dependent diabetes was admitted for community-acquired pneumonia.\n\nOn admission, the patient was febrile to 101.8°F, tachypneic with respiratory rate of 24, and hypoxic requiring 4L oxygen to maintain saturations above 90%. Chest X-ray showed right lower lobe infiltrate. He was started on ceftriaxone and azithromycin for CAP coverage.\n\nOf significant concern was the patient's markedly uncontrolled diabetes. Admission glucose was 287 mg/dL and HbA1c was found to be 9.1%, indicating poor long-term glycemic control. The patient admitted to not checking his blood sugars regularly at home and often forgetting his evening insulin dose. His wife reported he has been more confused over the past 3 days, likely related to the infection and hyperglycemia.\n\nCurrent diabetes medications include:\n- Insulin glargine 20 units at bedtime\n- Insulin lispro sliding scale with meals\n\nEndocrinology was consulted and recommended:\n1. Increase insulin glargine to 24 units at bedtime\n2. Add fixed dose insulin lispro 6 units with meals in addition to sliding scale\n3. Diabetes educator consult for patient and family education\n4. Close outpatient follow-up\n\nThe patient's pneumonia improved with antibiotics. He became afebrile on hospital day 2 and was able to wean back to his home oxygen requirement of 2L NC. His mental status improved as his glucose levels were brought under better control, ranging from 150-220 mg/dL by discharge.\n\nDISCHARGE MEDICATIONS:\n1. Insulin glargine 24 units subcutaneous at bedtime (INCREASED)\n2. Insulin lispro 6 units subcutaneous with meals (NEW)\n3. Insulin lispro sliding scale with meals (CONTINUED)\n4. Furosemide 40mg PO twice daily\n5. Carvedilol 12.5mg PO twice daily\n6. Lisinopril 10mg PO daily\n7. Tiotropium 18mcg inhaled daily\n8. Albuterol inhaler PRN\n9. Azithromycin 250mg PO daily x 2 more days\n\nDISCHARGE INSTRUCTIONS:\n1. Check blood sugar before each meal and at bedtime\n2. Take all insulin as prescribed - do not skip doses\n3. Follow diabetic diet as instructed\n4. Complete antibiotic course\n5. Use home oxygen as prescribed\n6. Weigh yourself daily, call if weight gain >3 lbs\n7. Follow up with PCP in 1 week\n8. Follow up with Endocrinology in 2 weeks\n9. Follow up with Pulmonology in 4 weeks\n\n_____________________________\nDr. Amanda Foster, MD\nHospital Medicine",
+      "question": "Does the patient have diabetes?",
+      "predicted_answer": "Yes",
+      "predicted_explanation": "The patient has documented insulin-dependent Type 2 diabetes mellitus. He takes insulin glargine 24 units at bedtime and insulin lispro with meals. His diabetes is uncontrolled with admission glucose of 287 mg/dL and HbA1c of 9.1%. Endocrinology was consulted for diabetes management.",
+      "evidence": [
+        "Insulin-dependent Type 2 diabetes mellitus, uncontrolled",
+        "insulin-dependent diabetes",
+        "Insulin glargine 20 units at bedtime",
+        "Insulin lispro sliding scale with meals",
+        "Admission glucose was 287 mg/dL",
+        "HbA1c was found to be 9.1%",
+        "uncontrolled diabetes"
+      ],
+      "annotation": {
+        "annotator_id": "Xing He",
+        "corrected_answer": "Yes",
+        "corrected_explanation": "The patient has documented insulin-dependent Type 2 diabetes mellitus. He takes insulin glargine 24 units at bedtime and insulin lispro with meals. His diabetes is uncontrolled with admission glucose of 287 mg/dL and HbA1c of 9.1%. Endocrinology was consulted for diabetes management.",
+        "comment": "",
+        "timestamp": "2026-01-14T19:23:58.925347"
+      },
+      "annotations": {
+        "Xing He": {
+          "corrected_answer": "Yes",
+          "corrected_explanation": "The patient has documented insulin-dependent Type 2 diabetes mellitus. He takes insulin glargine 24 units at bedtime and insulin lispro with meals. His diabetes is uncontrolled with admission glucose of 287 mg/dL and HbA1c of 9.1%. Endocrinology was consulted for diabetes management.",
+          "comment": "",
+          "timestamp": "2026-01-14T19:31:13.710385"
+        },
+        "Jason Ho": {
+          "corrected_answer": "Yes",
+          "corrected_explanation": "The patient has documented insulin-dependent Type 2 diabetes mellitus. He takes insulin glargine 24 units at bedtime and insulin lispro with meals. His diabetes is uncontrolled with admission glucose of 287 mg/dL and HbA1c of 9.1%. Endocrinology was consulted for diabetes management.",
+          "comment": "",
+          "timestamp": "2026-01-14T19:31:32.595118"
+        }
+      }
+    }
+  ]
+}
